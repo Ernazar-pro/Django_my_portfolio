@@ -1,0 +1,19 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60pt;
+    margin-left: 430pt;
+
+}
+#profile {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25pt;
+    color:darkturquoise
+
+}
+a{
+    font-size: 25pt;
+    margin-left: 80pt;
+}
+#link{
+    font-size: 25pt;
+}
